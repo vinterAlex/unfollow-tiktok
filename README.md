@@ -10,3 +10,7 @@ run script
 quickly open tiktok page with following popup in middle of screen and let it do its magic.
 
 Sometimes it will scroll a bit fast and might lose some of them, but then just reload page and run script again.
+
+
+https://github.com/vinterAlex/unfollow-tiktok/assets/21318068/55c99d23-bdc9-4385-9765-36871ea9f268
+
